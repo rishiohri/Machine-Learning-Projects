@@ -14433,9 +14433,10 @@ test_{network} = bottleneck_features['test']</code></pre>
 
 </code></pre>
 <p><strong>Question 5:</strong> Outline the steps you took to get to your final CNN architecture and your reasoning at each step.  Describe why you think the architecture is suitable for the current problem.</p>
-<p><strong>Answer:</strong> I selected to use Xception model which gave an accuracy of 84.4498%. Here, new data is small and similar to the original training data. So, following steps were performed:</p>
+<p><strong>Answer:</strong> I selected to use Xception model which gave a good accuracy of 84.4498%. Following steps were performed:</p>
 <ul>
 <li>Sliced off the end of neural network.</li>
+<li>Added a new global average pooling layer.</li>
 <li>Added a new dense layer with softmax activation function and having number of units equal to 133 dog breeds.</li>
 <li>Randomized the weights of new dense layer and froze all the weights from pre-trained network.</li>
 <li>Trained the network with 20 epochs to update the weights of new fully connected layer.</li>
