@@ -5,4 +5,4 @@
 - **_Finding Donors for CharityML_** - Built a classification model to identify the best potential donors for a charity.
 - **_Creating Customer Segments_** – Applied unsupervised learning techniques to extract valuable information from dataset of customers for a company.
 - **_Dog Breed Classifier_** – Built a convolution neural network from scratch and also applied transfer learning using Keras to recognize dog breeds from images. 
-- **_Teach a Quadcopter how to fly_** -  Built a task to take-off a quadcopter and created a DDPG agent to perform that task. 
+- **_Teach a Quadcopter how to fly_** -  Applied deep reinforcement learning to build a task to take-off a quadcopter and trained a DDPG agent to perform that task. 
