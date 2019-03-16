@@ -1,4 +1,5 @@
-# Plant Seedlings Classification
+# Machine Learning Capstone Project
+## Plant Seedlings Classification
 
 This project is a proposed solution to Kaggle Competition - Plant Seedlings Classification – Determine the species of a seedling from an image. The project problem and dataset are taken directly from Kaggle website.
 
