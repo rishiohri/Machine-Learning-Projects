@@ -1,5 +1,4 @@
-# Udacity-Machine-Learning-Projects
-### The repository shows the projects completed by me as a part of *Udacity Machine Learning Nanodegree* program.
+# Machine-Learning-Projects
 #### (checked box - completed, unchecked box - in progress ) 
 
 - [X] **_Predicting Boston Housing Prices_** – Used scikit learn and regression to analyze a real dataset of housing prices in Boston.
